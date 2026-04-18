@@ -1,4 +1,4 @@
-# 🔬 OCT Bioabsorbable Stent detection — U-Net Deep Learning
+# 🔬 OCT Bioabsorbable Stent Detection — U-Net Deep Learning
 
 > Évaluation de méthodes de segmentation de stents biorésorbables en imagerie OCT  
 > **Université Clermont Auvergne** · Master 2 TSI-ITM · 2024–2025  
